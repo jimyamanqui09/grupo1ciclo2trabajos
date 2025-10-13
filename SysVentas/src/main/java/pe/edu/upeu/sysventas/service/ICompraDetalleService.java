@@ -1,6 +1,6 @@
 package pe.edu.upeu.sysventas.service;
 
-import pe.edu.upeu.sysventas.model.Compra;
+import pe.edu.upeu.sysventas.model.CompraDetalle;
 
-public interface ICompraDetalleService extends ICrudGenericService<Compra,Long>{
+public interface ICompraDetalleService extends ICrudGenericService<CompraDetalle,Long>{
 }

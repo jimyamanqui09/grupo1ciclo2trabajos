@@ -1,6 +1,6 @@
 package pe.edu.upeu.sysventas.service;
 
-import pe.edu.upeu.sysventas.model.Categoria;
+import pe.edu.upeu.sysventas.model.Emisor;
 
-public interface IEmisorService extends ICrudGenericService<Categoria,Long>{
+public interface IEmisorService extends  ICrudGenericService<Emisor,Long>{
 }

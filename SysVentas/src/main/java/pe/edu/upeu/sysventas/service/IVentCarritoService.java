@@ -1,6 +1,7 @@
 package pe.edu.upeu.sysventas.service;
 
-import pe.edu.upeu.sysventas.model.Producto;
 
-public interface IVentCarritoService extends ICrudGenericService<Producto,Long>{
+import pe.edu.upeu.sysventas.model.VentCarrito;
+
+public interface IVentCarritoService extends  ICrudGenericService<VentCarrito,Long>{
 }
